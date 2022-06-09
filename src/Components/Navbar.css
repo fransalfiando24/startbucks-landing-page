@@ -1,0 +1,49 @@
+nav{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav .logo{
+    position: relative;
+    max-width: 80px;
+}
+
+nav ul{
+    position: relative;
+    display: flex;
+}
+
+nav ul li{
+    list-style: none;
+}
+
+nav ul li a{
+    display: inline-block;
+    color: #333;
+    font-weight: 400;
+    margin-left: 40px;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    color: #08975c;
+    /* transition: .5s all ease-in-out; */
+}
+
+@media only screen and (max-width: 768px){
+    nav{
+        padding: 1rem 1rem;
+    }
+    nav .logo{
+        max-width: 50px;
+    }
+    nav ul{
+        display: none;
+    }
+}
