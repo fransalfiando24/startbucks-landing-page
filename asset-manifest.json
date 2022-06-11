@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/startbucks-landing-page/static/css/main.be31162d.chunk.css",
+    "main.js": "/startbucks-landing-page/static/js/main.3afffc17.chunk.js",
+    "main.js.map": "/startbucks-landing-page/static/js/main.3afffc17.chunk.js.map",
+    "runtime-main.js": "/startbucks-landing-page/static/js/runtime-main.0043af29.js",
+    "runtime-main.js.map": "/startbucks-landing-page/static/js/runtime-main.0043af29.js.map",
+    "static/js/2.1df9d7bc.chunk.js": "/startbucks-landing-page/static/js/2.1df9d7bc.chunk.js",
+    "static/js/2.1df9d7bc.chunk.js.map": "/startbucks-landing-page/static/js/2.1df9d7bc.chunk.js.map",
+    "index.html": "/startbucks-landing-page/index.html",
+    "static/css/main.be31162d.chunk.css.map": "/startbucks-landing-page/static/css/main.be31162d.chunk.css.map",
+    "static/js/2.1df9d7bc.chunk.js.LICENSE.txt": "/startbucks-landing-page/static/js/2.1df9d7bc.chunk.js.LICENSE.txt",
+    "static/media/img1.8fc07f15.png": "/startbucks-landing-page/static/media/img1.8fc07f15.png",
+    "static/media/img2.a33944e3.png": "/startbucks-landing-page/static/media/img2.a33944e3.png",
+    "static/media/img3.61b22f49.png": "/startbucks-landing-page/static/media/img3.61b22f49.png",
+    "static/media/logo.766153cb.png": "/startbucks-landing-page/static/media/logo.766153cb.png",
+    "static/media/thumb1.1e6ce44a.png": "/startbucks-landing-page/static/media/thumb1.1e6ce44a.png",
+    "static/media/thumb2.4436a39b.png": "/startbucks-landing-page/static/media/thumb2.4436a39b.png",
+    "static/media/thumb3.00b72d1c.png": "/startbucks-landing-page/static/media/thumb3.00b72d1c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0043af29.js",
+    "static/js/2.1df9d7bc.chunk.js",
+    "static/css/main.be31162d.chunk.css",
+    "static/js/main.3afffc17.chunk.js"
+  ]
+}
